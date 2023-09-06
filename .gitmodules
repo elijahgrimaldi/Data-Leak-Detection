@@ -1,0 +1,3 @@
+[submodule "LeakDetection/vendor/GCP"]
+	path = LeakDetection/vendor/GCP
+	url = https://github.com/elijahgrimaldi/google-cloud-cpp
